@@ -6,6 +6,6 @@ This repository contains a project summarizing and analyzing the research paper 
 
 Contents
 
-Research Summaries: 📑 Summaries of the abstract, introduction, conclusions, and recommendations from the research paper.
-Insights and Applications: 💡 Key insights gained from the study and practical applications for soil conservation.
-Reflection: 📝 Personal reflection on the learning experience, challenges faced, and insights gained during the project.
+- Research Summaries: 📑 Summaries of the abstract, introduction, conclusions, and recommendations from the research paper.
+- Insights and Applications: 💡 Key insights gained from the study and practical applications for soil conservation.
+- Reflection: 📝 Personal reflection on the learning experience, challenges faced, and insights gained during the project.
